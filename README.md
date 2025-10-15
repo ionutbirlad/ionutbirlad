@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ionut Birlad — Full-Stack Developer
+# 👋 Hi, I'm Ionut — Full-Stack Developer
 
 I’m a full-stack web developer with a strong **frontend focus** and a background in **business management**.  
 I design, build and ship scalable web applications using **React**, **Next.js**, **Vue.js**, **Node.js** and **Shopify**, integrating modern workflows and CI/CD pipelines.
