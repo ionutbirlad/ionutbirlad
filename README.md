@@ -7,11 +7,11 @@ I design, build and ship scalable web applications using **React**, **Next.js**,
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **KTC (Kill The Competition)** — my full-stack developer portfolio built with Next.js 15, Supabase and TypeScript  
+- 🔭 Currently working on **Project KTC** — my full-stack developer portfolio built with Next.js 15, Supabase and TypeScript  
 - 🛍️ Founder of **[Bustí](http://www.laspesadelpinguino.it/products/set-4-borse)** — a DTC brand built on Shopify, from branding to logistics and marketing  
 - 💼 3 years at **Underscore District (Milano)** as Front-End/Shopify Developer for multi-brand fashion stores  
 - 💡 I enjoy bridging tech and strategy — from scalable frontend architectures to marketing automation and data-driven decisions  
-- 🌍 Based in **Rovigo, Italy**  
+- 🌍 Currently based in **Rovigo, Italy**  
 - 📫 [LinkedIn](https://www.linkedin.com/in/ionut-birlad) • [Email](mailto:birladionut@yahoo.it)
 
 ---
@@ -56,7 +56,7 @@ Problem Solving • Teamwork • Communication • Adaptability • Critical Thi
 
 ## 🧱 Personal Projects
 
-### 🖥️ [Kill The Competition (KTC)](https://github.com/ionutbirlad/ktc)
+### 🖥️ [Project KTC](https://github.com/ionutbirlad/ktc)
 > Full-stack portfolio app built with **Next.js 15**, **TypeScript**, **Tailwind**, **Supabase**, **Shadcn/UI**, and **Framer Motion**
 
 ### 🛒 [Bustí – Reusable Shopping Bag System](http://www.laspesadelpinguino.it/products/set-4-borse)
@@ -66,7 +66,7 @@ Problem Solving • Teamwork • Communication • Adaptability • Critical Thi
 
 ## 🧰 Open Source Contributions
 
-- 🐞 [shadcn/ui – Issue #XXX: Invalid class `@container/card-header`](https://github.com/shadcn-ui/ui/issues/XXX)  
+- 🐞 [shadcn/ui – Issue #7492: Invalid class `@container/card-header`](https://github.com/shadcn-ui/ui/issues/7492)  
   Reported a class-naming bug and participated in the follow-up discussion that led to the fix.
 
 ---
