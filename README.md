@@ -56,7 +56,7 @@ Problem Solving • Teamwork • Communication • Adaptability • Critical Thi
 
 ## 🧱 Personal Projects
 
-### 🖥️ [Project KTC](https://github.com/ionutbirlad/ktc)
+### 🖥️ [Project KTC](https://github.com/ionutbirlad/project-ktc)
 > Full-stack portfolio app built with **Next.js 15**, **TypeScript**, **Tailwind**, **Supabase**, **Shadcn/UI**, and **Framer Motion**
 
 ### 🛒 [Bustí – Reusable Shopping Bag System](http://www.laspesadelpinguino.it/products/set-4-borse)
