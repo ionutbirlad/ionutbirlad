@@ -23,7 +23,7 @@ Currently working on [**Project KTC**](https://github.com/ionutbirlad/project-kt
 Full-stack app with multi-layer authentication, server actions, and RLS.  
 **Stack:** Next.js 15 (App Router) • TypeScript • Supabase • Shadcn/UI • Framer Motion
 
-### [Bustí](https://www.busti.shop](https://laspesadelpinguino.it/products/set-4-borse)
+### [Bustí](https://laspesadelpinguino.it/products/set-4-borse)
 DTC e-commerce brand built end-to-end on Shopify. Handled everything from product sourcing to marketing automation and theme customization.  
 **Stack:** Shopify • Liquid • Meta Ads • Klaviyo
 
