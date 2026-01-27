@@ -23,7 +23,7 @@ Currently working on [**Project KTC**](https://github.com/ionutbirlad/project-kt
 Full-stack app with multi-layer authentication, server actions, and RLS.  
 **Stack:** Next.js 15 (App Router) • TypeScript • Supabase • Shadcn/UI • Framer Motion
 
-### [Bustí]([https://www.busti.shop](https://laspesadelpinguino.it/products/set-4-borse))
+### [Bustí](https://www.busti.shop](https://laspesadelpinguino.it/products/set-4-borse)
 DTC e-commerce brand built end-to-end on Shopify. Handled everything from product sourcing to marketing automation and theme customization.  
 **Stack:** Shopify • Liquid • Meta Ads • Klaviyo
 
@@ -50,7 +50,3 @@ Frontend developer on a Vue.js + GraphQL platform connecting construction suppli
 ## 📫 Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/ionut-birlad) • [Email](mailto:birladionut@yahoo.it) • Based in Rovigo, Italy
-
----
-
-⭐ If something here caught your eye, feel free to explore my repos or reach out!
