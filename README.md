@@ -19,7 +19,7 @@ Currently working on [**Project KTC**](https://github.com/ionutbirlad/project-kt
 
 ## 🚀 What I'm building
 
-### [Project KTC](https://github.com/ionutbirlad/project-ktc)
+### [Project KTC](https://github.com/ionutbirlad/project-ktc-v2)
 Full-stack app with multi-layer authentication, server actions, and RLS.  
 **Stack:** Next.js 15 (App Router) • TypeScript • Supabase • Shadcn/UI • Framer Motion
 
