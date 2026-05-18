@@ -3,7 +3,7 @@
 **Full-stack engineer** with a focus on building scalable web applications using **React**, **Next.js**, and **TypeScript**.  
 I care about clean architecture, great UX, and shipping products that solve real problems.
 
-Currently working on [**Project KTC**](https://github.com/ionutbirlad/project-ktc) — a full-stack portfolio app exploring modern patterns with Next.js 15, Supabase, and TypeScript.
+Currently working on [**Project KTC**](https://github.com/ionutbirlad/project-ktc-v2) — a full-stack portfolio app exploring modern patterns with Next.js 15, Supabase, and TypeScript.
 
 ---
 
